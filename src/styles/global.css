@@ -1,0 +1,25 @@
+@import "variables.css";
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:200,300,400,300i,500,600,700");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+:global html {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+:global body {
+    background: var(--bgcolor);
+    margin: 0;
+}
+
+:global *,
+:global *:before,
+:global *:after {
+    box-sizing: border-box;
+}
+
+:global body {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 200;
+    color: var(--fontcolor);
+}

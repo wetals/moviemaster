@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rating renders a snapshot properly 1`] = `
+<div
+  className="rating"
+>
+  <h3
+    className="title"
+  >
+    Rating
+  </h3>
+  <div
+    className="rating-slider"
+  >
+    <input
+      className="rating-slider__range"
+      max="10"
+      min="0"
+      onChange={[Function]}
+      step="0.5"
+      type="range"
+      value={undefined}
+    />
+    <span
+      className="rating-slider__value"
+    />
+  </div>
+</div>
+`;

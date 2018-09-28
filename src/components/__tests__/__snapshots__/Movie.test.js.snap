@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Movie component renders snapshot properly 1`] = `
+<article
+  className="item"
+>
+  <div
+    className="item__image"
+  >
+    <img
+      alt="foo"
+      src="urlsize-41.jpg"
+    />
+  </div>
+  <div
+    className="item__metadata"
+  >
+    <div
+      className="item__title"
+    >
+      foo
+    </div>
+    <div
+      className="genre__tags"
+    />
+  </div>
+</article>
+`;

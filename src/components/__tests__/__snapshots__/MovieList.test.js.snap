@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieList component renders snapshot properly 1`] = `
+<div
+  className="items"
+>
+  <article
+    className="item"
+  >
+    <div
+      className="item__image"
+    >
+      <img
+        alt="foo"
+        src="urlsize-41.jpg"
+      />
+    </div>
+    <div
+      className="item__metadata"
+    >
+      <div
+        className="item__title"
+      >
+        foo
+      </div>
+      <div
+        className="genre__tags"
+      >
+        <span
+          className="genre"
+        />
+      </div>
+    </div>
+  </article>
+  <article
+    className="item"
+  >
+    <div
+      className="item__image"
+    >
+      <img
+        alt="bar"
+        src="urlsize-42.jpg"
+      />
+    </div>
+    <div
+      className="item__metadata"
+    >
+      <div
+        className="item__title"
+      >
+        bar
+      </div>
+      <div
+        className="genre__tags"
+      >
+        <span
+          className="genre"
+        />
+      </div>
+    </div>
+  </article>
+</div>
+`;

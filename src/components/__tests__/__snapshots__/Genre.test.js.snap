@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Genre component renders snapshot properly 1`] = `
+<div
+  className="genre__tags"
+>
+  <span
+    className="genre"
+  >
+    foo
+  </span>
+  <span
+    className="genre"
+  >
+    bar
+  </span>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GenreList component renders snapshot properly 1`] = `
+<div
+  className="genre__list"
+>
+  <h3
+    className="title"
+  >
+    All Genres
+  </h3>
+</div>
+`;
